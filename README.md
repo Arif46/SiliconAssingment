@@ -5,7 +5,7 @@ Email: arifuzzamanarif42@gmail.com
 Phone: +01742195643
 --------------------------------------------
 Installation
-* Git clone: git clone https://github.com/jfBiswajit/assignment
+* Git clone: git clone https://github.com/Arif46/SiliconAssingment
 * Run: composer install
 * Rename .env.example file to .env
 * Open .env file and provide your database information
